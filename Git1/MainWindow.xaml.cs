@@ -23,7 +23,7 @@ namespace Git1
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine("commit4");
+            Console.WriteLine("commit5");
         }
     }
 }
